@@ -14,7 +14,7 @@ function App() {
             <h5>Assignment 2: Zeeshan Hashmi</h5>         
         </header>
         <div className="App-logo">
-            <img src={logo} />
+            <img src={logo} alt='Ready to take off with React Js' />
         </div>          
       </div>
     </div>
